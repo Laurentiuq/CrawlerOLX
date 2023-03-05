@@ -6,6 +6,8 @@ It has two options:
 
 App runs on Node.js backend and calls the python script on the server.  
 
+  
+To run:
 ```
 nodemon app.js
 ```
