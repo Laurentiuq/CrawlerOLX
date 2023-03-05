@@ -6,4 +6,8 @@ It has two options:
 
 App runs on Node.js backend and calls the python script on the server.  
 
+```
+nodemon app.js
+```
+
 ![image](https://user-images.githubusercontent.com/99676849/222992014-22d49a03-8ec5-41e7-a364-f6813af15bae.png)
